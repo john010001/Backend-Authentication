@@ -1,4 +1,4 @@
-namespace RealPlaza.Authentication.Api
+namespace Test.Authentication.Api
 {
     public class WeatherForecast
     {
