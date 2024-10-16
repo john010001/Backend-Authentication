@@ -1,7 +1,7 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
-namespace RealPlaza.Authentication.Api.Controllers
+namespace Test.Authentication.Api.Controllers
 {
 
     [ApiController]

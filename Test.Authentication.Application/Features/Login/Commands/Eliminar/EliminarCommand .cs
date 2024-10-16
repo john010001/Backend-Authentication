@@ -12,10 +12,10 @@ namespace Test.Authentication.Application.Features.Login.Commands.Eliminar
     {
         public string Correo { get; set; }
 
-        //public EliminarUsuarioCommand(string correo)
-        //{
-        //    Correo = correo;
-        //}
+        public EliminarUsuarioCommand(string correo)
+        {
+            Correo = correo;
+        }
     }
 
 }
